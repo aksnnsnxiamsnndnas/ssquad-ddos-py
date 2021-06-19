@@ -53,7 +53,7 @@ def startup():
 	print()
 	print("SkullSquad - https://www.youtube.com/Infecting")
 	print("Tool Developer: Infxctxng#6666")
-	print("https://discord.gg/calle")
+	print("https://discord.gg/skulls")
 	print()
 
 
